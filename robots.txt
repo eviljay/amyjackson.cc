@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+
+Sitemap: http://www.amyjackson.cc/photographs/Memphis/Memphis7/book/sitemap.xml
